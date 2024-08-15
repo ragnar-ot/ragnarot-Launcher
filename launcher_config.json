@@ -11,7 +11,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 {
 	"clientVersion": "13.34",
 	"launcherVersion": "1.0",
-	"replaceFolders": true,
+	"replaceFolders": false,
 	"replaceFolderName": [
 		{
 			"name": "assets"
