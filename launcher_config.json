@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/ragnar-ot/ragnarotLauncher/releases/download/v1.0.0/ragnar-client-13.34.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "ragnarLauncher.exe"
 }
