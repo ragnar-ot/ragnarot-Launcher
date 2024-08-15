@@ -18,7 +18,7 @@ namespace CanaryLauncherUpdate
 		{
 			App app = new App();
 			app.InitializeComponent();
-			app.Run();
+            app.Run();
 		}
 	}
 }
