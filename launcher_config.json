@@ -4,6 +4,7 @@
 • replaceFolders Whether the updater should replace the client's current folders
 • folders An array of objects representing the client's folders, each object has the key "name"
 • clientFolder The name of the main client folder, represented as "Tibia"
+
 NOTE: Set it to "false" or only "" to not use the client folder, so everything will be added to the main folder
 • newClientUrl The URL where the new client version can be downloaded from
 • executable The path to the client's executable file, represented as "bin/client.exe"
@@ -23,7 +24,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": false,
+	"clientFolder": "Tibia/ragnar-client-13.34",
 	"newClientUrl" : "https://github.com/ragnar-ot/ragnarotLauncher/releases/download/v1.0.0/ragnar-client-13.34.zip",
 	"clientExecutable": "ragnarLauncher.exe"
 }
