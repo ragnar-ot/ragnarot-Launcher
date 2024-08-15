@@ -11,7 +11,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 {
 	"clientVersion": "13.34",
 	"launcherVersion": "1.0",
-	"replaceFolders": "",
+	"replaceFolders": true,
 	"replaceFolderName": [
 		{
 			"name": "assets"
@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "",
 	"newClientUrl" : "https://github.com/ragnar-ot/ragnarotLauncher/releases/download/v1.0.0/ragnar-client-13.34.zip",
 	"clientExecutable": "ragnarLauncher.exe"
 }
